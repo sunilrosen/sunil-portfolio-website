@@ -323,7 +323,7 @@ section {
 .experience-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
-  font-size: 1.75rem;
+  font-size: 1.3rem;
   margin-bottom: 2rem;
 }
 
@@ -365,7 +365,7 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
+  border-radius: 1.5rem;
   border: solid black;
   width: 90%;
   height: 90%;
@@ -379,6 +379,13 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+.project-description {
+  color: rgb(85, 85, 85);
+  font-weight: 200;
+  font-size: 1rem;
+  margin-bottom: 1rem;
 }
 
 /* CONTACT */
